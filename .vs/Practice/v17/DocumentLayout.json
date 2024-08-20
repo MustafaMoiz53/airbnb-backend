@@ -1,0 +1,57 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\musta\\Desktop\\Semester 3 FEB 2024\\Web Proamming\\Final Project\\Backend\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6F477595-4F1F-44F8-828D-5031F43D49A3}|Practice\\Practice.csproj|c:\\users\\musta\\desktop\\semester 3 feb 2024\\web proamming\\final project\\backend\\practice\\data\\datainterface.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F477595-4F1F-44F8-828D-5031F43D49A3}|Practice\\Practice.csproj|solutionrelative:practice\\data\\datainterface.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 700,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DataInterface.cs",
+              "DocumentMoniker": "C:\\Users\\musta\\Desktop\\Semester 3 FEB 2024\\Web Proamming\\Final Project\\Backend\\Practice\\Data\\DataInterface.cs",
+              "RelativeDocumentMoniker": "Practice\\Data\\DataInterface.cs",
+              "ToolTip": "C:\\Users\\musta\\Desktop\\Semester 3 FEB 2024\\Web Proamming\\Final Project\\Backend\\Practice\\Data\\DataInterface.cs",
+              "RelativeToolTip": "Practice\\Data\\DataInterface.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-20T13:56:17.581Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
